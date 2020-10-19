@@ -15,5 +15,6 @@ Data analysis: Data analysis is a process of inspecting, cleansing, transforming
 
 Tokenization: Tokenization is the process of turning a meaningful piece of data, such as an account number, into a random string of characters called a token that has no meaningful value if breached. Tokens serve as reference to the original data, but cannot be used to guess those values.
 
+References: Spotle.ai
 
 ![2](https://user-images.githubusercontent.com/45510285/85878280-1166a980-b7f6-11ea-8072-bd9d578078a6.jpg)
